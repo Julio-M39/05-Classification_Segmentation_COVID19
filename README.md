@@ -1,6 +1,6 @@
 # 05-Classification_Segmentation_COVID19
 
-## Classificação e Segmentação da COVID19 em Imagens de Tomografia Computadorizada
+## Classificação e Segmentação da COVID19 em Imagens de Tomografia Computadorizada.
 
 Minicurso aceito e apresentado no <a href="https://sbcas2022.enucompi.com.br/">XXII Simpósio Brasileiro de Computação Aplicada à Saúde</a>, o que gerou um capítulo para publicação no livro “Minicursos do SBCAS 2022”. 
 
